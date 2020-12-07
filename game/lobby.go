@@ -31,9 +31,9 @@ var (
 		MinRounds:            1,
 		MaxRounds:            20,
 		MinMaxPlayers:        2,
-		MaxMaxPlayers:        24,
+		MaxMaxPlayers:        99,
 		MinClientsPerIPLimit: 1,
-		MaxClientsPerIPLimit: 24,
+		MaxClientsPerIPLimit: 99,
 	}
 	SupportedLanguages = map[string]string{
 		"english": "English",
